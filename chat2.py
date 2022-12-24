@@ -10,7 +10,7 @@ from colorama import Fore, Style, Back
 import random
 import pickle
 
-with open("intents.json", encoding='utf-8') as file:
+with open("clean_intents.json", encoding='utf-8') as file:
     data = json.load(file)
 
 
@@ -19,11 +19,11 @@ def chat():
     model = keras.models.load_model('chat_model2')
 
     # load tokenizer object
-    with open('tokenizer.pickle', 'rb') as handle:
+    with open('tokenizer2.pickle', 'rb') as handle:
         tokenizer = pickle.load(handle)
 
     # load label encoder object
-    with open('label_encoder.pickle', 'rb') as enc:
+    with open('label_encoder2.pickle', 'rb') as enc:
         lbl_encoder = pickle.load(enc)
 
     # parameters

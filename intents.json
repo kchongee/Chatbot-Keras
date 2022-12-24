@@ -30,6 +30,149 @@
     {"tag": "complaint",
     "patterns": ["have a complaint", "I want to raise a complaint", "there is a complaint about a service"],
     "responses": ["Please provide us your complaint in order to assist you", "Please mention your complaint, we will reach you and sorry for any inconvenience caused"]
+    },
+    {
+        "tag": "faq_malaysia_place_night",
+        "patterns": ["Which are the best tourist attractions in Malaysia to visit at night?", "best place to visit at night", "where to go at night in Malaysia","place to go at night","tourist attractions in Malaysia at night"],
+        "responses": ["1. Petronas Twin towers\nPetronas Twin Tower is the most famous Malaysian tourist attraction and thousands of people come to Malaysia to witness the beautiful structure. The Petronas Twin Towers were inaugurated on 31st August 1999 and from the year 1998 to 2004 they were the tallest towers in the world. \n\n2. Menara Kuala Lumpur\nMenara Kuala Lumpur is one of the most famous Malaysian places to visit as it is the 7th largest tower in the world. The tower is commonly used for watching the moon during the month of Ramadan, but the view of the city and the Petronas from the top of the tower will take your breath away.\n\n3. Dataran Lang\nDataran Lang is one of the most spectacular tourist destinations situated in Langkawi and is commonly known as the “Eagle Square”. Dataran Lang is a statue of an eagle, with its wings spread out as if it is about to take flight, and is 12 meters tall. \n\n4. Ayer Keroh\nIf you love nature and enjoy the silence and peace that the lush greenery scenery provides then Ayer Keroh is just the place for you. It is a butterfly and reptile sanctuary and offers a great night safari that you and your kids will enjoy."]
+    },
+    {
+        "tag": "faq_malaysia_to_do",
+        "patterns": ["What are the best things to do in Malaysia?","things to do in malaysia","to do in malaysia","what to do in malaysia?"],
+        "responses": ["1. Get close and personal with Elephants Kuala Gandah Elephant Conservation Centre\nKuala Elephant Conservation Centre is a government run wildlife reserve for elephants that is just 105 km from the city of Kuala Lumpur. The elephants in Malaysia are endangered, so this is an initiative by the government to spread awareness among the people by allowing them to get personal and take care of the elephants for a day.\n\n2. Visit Perhentian islands \nOne of the best Malaysia places to visit is the Perhentian Islands, which are located on the east coast of Malaysia. This place is famous because of the snorkeling and diving activities, during which you can feed fish, swim with turtles and watch sharks. \n\n3. Go to Skybridge and Skycab in Langkawi \nOne of the major Malaysia tourist attractions is the sky bridge and skycab which are located on the islands of Langkawi. To reach the skybridge you will have to take the skycab which is at the top of the second-highest mountain, Gunung, Machinchang. There is a glass walkway in the middle of the bridge, and the view of all the Langkawi islands from here will take your breath away.\n\n4. Dive at the Sipadan Island\nSipadan Island is popular among divers as there are 20 diving sites on the island each giving a different view from the other. The island is made of living corals formed on top of the extinct volcano under the sea. There are more than 3000 species of aquatic animals under the sea and with each dive, you can witness at least 20 turtles."]
+    },
+    {
+        "tag": "faq_malaysia_honeymoon_places",
+        "patterns": ["What are the best places to visit in Malaysia on honeymoon?","honeymoon places in malaysia","best places in malaysia for couple","places to visit in malaysia on honeymoon"],
+        "responses": ["1. Kuala Lumpur: This is the capital city of Malaysia and one of the most urbanized places in the world. The city offers a nice mix of the traditional aspects in its monuments and attractions, and the modern ones with contemporary architecture, malls, skyscrapers. You and your partner can explore different parts of the city, lanes, markets, nightlife and much more during the Honeymoon.\n2. Mabul Island: This secluded Island is home to pristine white-sand beach shores that compliment the blue-green lagoons filled with vibrant hard and soft coral reefs. This site is less crowded and is among the best Places to go in Malaysia for snorkeling. Apart from water-sports you can relax under the warm sun, visit local villages and attractions like Tun Sakaran Marine Park.\n3. Malacca: It is a historic state in Malaysia that has a rich cultural heritage and influences from Dutch, Portuguese, British colonial eras, as well as the Malay Sultanate reign. The city of Melaka has been declared a UNESCO World Heritage Site and is home to some of the world's oldest monuments and landmarks.\n4. Taman Negara: This million years old rainforest in Malaysia is representative of the natural opulence of the country and one of the places to see in Malaysia. Sprawling over acres of land, here you and your partner can delve into many activities like hikes, nature-walks, night safaris, tribal village visits, etc., to explore the natural beauty and find some solace."]
+    },
+    {
+        "tag": "faq_malaysia_camping_places",
+        "patterns": ["Which are the best camping places in Malaysia?","camping places in Malaysia","best camping in malaysia","places in malaysia for camping","places for camping in malaysia","where can I camping in malaysia?"],
+        "responses": ["1. Kem Sungai Pua, Pahang\nCameron highlands are famous for its strawberry and tea plantations, but it is also popular for the camping sites it has to offer. Kem Sui Pua has an area that facilitates camps, tents, gazebos, electric plugging sites, and barbecues. \n\n2. Brinchang Mountain\nBrinchang Mountain is not as famous as Sungai Pua, but it just turns out to be an advantage. This place offers one of the most beautiful views of the tea plantations, rose gardens, and strawberry fields. \n\n3. Tadom Hill Resorts\nTadom Hill Resorts provides the best accommodations and is a popular camping site in Malaysia for those who prefer more indoor camping with basic amenities while still being surrounded by the refreshing touch of nature. There are numerous options available, including the Gendui Chalets, Hakka Village, Bamboo Hut, Astana Ninik Chalets, Eco Tents, Hammock Spheres, and more.\n\n4. Kuala Selangor Nature Park\nKuala Selangor Nature Park is a popular camping destination in Malaysia. The park's main draw is the 150 different species of avian wildlife fluttering around, as well as the natural mudflats, mangrove swamps and an artificial lake teeming with aquatic life."]
+    },
+    {
+        "tag": "faq_malaysia_famous",
+        "patterns": ["What is Malaysia famous for?","famous thing in malaysia","malaysia famous things","What has made Malaysia famous?","why is malaysia famous?"],
+        "responses": ["Malaysia is a tropical paradise known for its prolific beaches and coastal states, a diverse cultural heritage, ancient attractions, scrumptious cuisines and cheap shopping. Along with that is also the capital city of Kuala Lumpur which is a financial hub in the southeast Asia region."]
+    },
+    {
+        "tag": "faq_why_is_popular_Bario",
+        "patterns": [
+            "Why is Bario popular?",
+            "what is bario's appeal?",
+            "what makes bario so popular?",
+            "is bario popular?",
+            "why is bario so popular?",
+            "why is bario popular?"
+        ],
+        "responses": [
+            "Famous for its highland rice and sweet pineapples grown by the locals. \r\n Bario is famous for its highland rice and sweet pineapples grown by the locals. The Bario rice particularly has been included as one of the “Ark of Taste” products under Slow Food Foundation."
+        ]
+    },
+    {
+        "tag": "faq_what_is_famous_Bario",
+        "patterns": [
+            "What is Bario famous for?",
+            "what's the most famous thing bario does?"
+        ],
+        "responses": [
+            "Birthplace to the indigenous Kelabits. \r\n Birthplace to the indigenous Kelabits, Bario is located in the heart of Borneo. The highland is home to many Kelabits still living in traditional longhouses located in the centre of the Bario Highlands."
+        ]
+    },
+    {
+        "tag": "faq_what_is_Bario",
+        "patterns": [
+            "What is Bario?",
+            "what is bario? what does it mean?",
+            "what is bario?"
+        ],
+        "responses": [
+            "A community of 13 to 16 villages located on the Kelabit Highlands in Miri Division, Sarawak, Malaysia. \r\n Bario is a community of 13 to 16 villages located on the Kelabit Highlands in Miri Division, Sarawak, Malaysia, lying at an altitude of 1000 m (3280 ft) above sea level. It is located close to the Sarawak-Kalimantan border, 178 km to the east of Miri. It is the main settlement for the indigenous Kelabit tribe."
+        ]
+    },
+    {
+        "tag": "faq_what_is_Bario Rice",
+        "patterns": [
+            "What is Bario Rice?",
+            "what is bario rice?"
+        ],
+        "responses": [
+            "A medium grain rice, marble white in color. \r\n Bario Rice is a medium grain rice, marble white in color. This variety is famous for its excellent sweet taste and slightly sticky texture, and is a favorite among Malaysian chefs that use it to prepare traditional recipes."
+        ]
+    },
+    {
+        "tag": "faq_how_cook_Bario",
+        "patterns": [
+            "How to cook Bario rice?",
+            "how can i make bario rice?",
+            "how do i make bario rice?",
+            "how to make bario rice?",
+            "how can you cook bario rice?",
+            "how do i cook bario rice?",
+            "how do you cook bario rice?"
+        ],
+        "responses": [
+            "Cooking time is approximately 20 minutes. \r\n Soaked for 4hrs to make perfect rice, ratio of grains to water should be at 1:1. If you've soaked grains for over 4 hours, 90% of water will be good enough. If you haven't soaked for at least 2 hours, add 100% water. Cooking time is approximately 20 minutes and pretty much depends on your rice cooker function."
+        ]
+    },
+    {
+        "tag": "faq_i_get_Bario",
+        "patterns": [
+            "How do I get to Bario?",
+            "how can we get to bario?",
+            "how can i get to bario?",
+            "how do i get to bario?"
+        ],
+        "responses": [
+            "Via flight. \r\n The easiest way to Bario is via flight; all flights to Bario originate from Miri. These twice-daily flights are operated by MasWing (subsidiary of Malaysia Airlines) and fulfilled via 19-seater turboprop Twin Otter planes."
+        ]
+    },
+    {
+        "tag": "faq_what_bintulu_bintulu",
+        "patterns": [
+            "What country is bintulu in?",
+            "which country is bintulu located in?",
+            "what country is bintulu located?",
+            "what country is bintulu?"
+        ],
+        "responses": [
+            "Malaysia. \r\n With a population of 114,058 as of 2010, Bintulu is the capital of the Bintulu District of the Bintulu Division of Sarawak, Malaysia."
+        ]
+    },
+    {
+        "tag": "faq_you_spell_Bario",
+        "patterns": [
+            "How do you spell Bario?",
+            "how can you spell bario?",
+            "how do you spell bario?"
+        ],
+        "responses": [
+            "Barrio. \r\n “Barrio.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/barrio."
+        ]
+    },
+    {
+        "tag": "faq_you_describe_",
+        "patterns": [
+            "How do you describe a barrio?",
+            "what's your definition of a neighborhood?",
+            "tell me the definition of a barrio?",
+            "how can one describe a barrio?",
+            "how would you describe a barrio?",
+            "what would you describe a barrio?"
+        ],
+        "responses": [
+            " Barrio (Spanish pronunciation: [ˈbarjo]) is a Spanish word that means \"quarter\" or \"neighborhood\". In the modern Spanish language, it is generally defined as each area of a city, usually delimited by functional (e.g. residential, commercial, industrial, etc.), social, architectural or morphological features."
+        ]
+    },
+    {
+        "tag": "faq_is_healthy_Bario Rice",
+        "patterns": [
+            "Is Bario Rice healthy?"
+        ],
+        "responses": [
+            "Moderate glycemic index (GI) rice (range 55-69) which is believed to be capable in maintaining or slightly lowering human blood glucose. \r\n 🔰Bario rice are classified as moderate glycemic index (GI) rice (range 55-69) which is believed to be capable in maintaining or slightly lowering human blood glucose. Yup."
+        ]
     }
 ]
 }
